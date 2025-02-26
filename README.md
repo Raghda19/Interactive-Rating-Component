@@ -28,6 +28,6 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ## Author
 
-- Website - [Raghda](https://www.your-site.com)
-- Frontend Mentor - [@Raghda19](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Raghda]https://www.frontendmentor.io/solutions/interactive-rating-component-819mE4Nr7r
+- Frontend Mentor - [@Raghda19]https://www.frontendmentor.io/profile/Raghda19
 
