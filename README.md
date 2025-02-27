@@ -17,8 +17,8 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [https://github.com/Raghda19/Interactive-rating-component.git]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Raghda19/Interactive-rating-component.git
+- Live Site URL: https://raghda19.github.io/Interactive-rating-component/
 
 ### Built with
 
